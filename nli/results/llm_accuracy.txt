@@ -1,0 +1,2 @@
+Llama 3.2 few-shot accuracy (SNLI test): 61.3%
+LSTM baseline: 79.2%

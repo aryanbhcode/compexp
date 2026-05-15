@@ -1,0 +1,1 @@
+LSTM Bowman baseline accuracy (SNLI test): 79.2%
